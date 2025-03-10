@@ -10,3 +10,4 @@ création du dossier src
 création du dossier js dans src
 création du dossier pages dans src
 Appelle aux API electron dans main.js -> const {app, BrowserWindow} = require("electron")
+npm start
