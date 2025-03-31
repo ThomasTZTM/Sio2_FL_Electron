@@ -6,6 +6,7 @@ npm init -y
 npm install electron --save-dev
 création du fichier main.js
 modif dans package.json :  "main": "index.js",   ->   "main": "main.js",
+dans script ajouter "start": "electron ."
 création du dossier src 
 création du dossier js dans src
 création du dossier pages dans src
